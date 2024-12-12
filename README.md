@@ -22,6 +22,4 @@ fact_pre_invoice_deductions: contains pre-invoice deductions information for eac
 fact_sales_monthly: contains monthly sales data for each product.
 
 
-#10 Ad-Hoc Requests and Answers:
-
 
