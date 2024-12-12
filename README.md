@@ -9,7 +9,7 @@ Now the company wants insights for 10 ad hoc / business requests.
 
 This project is part of the data analytics boot camp at codebasics.
 
-video presentation link - https://www.linkedin.com/posts/arbaj-ansari_dataanalytics-sql-powerbi-activity-7268280197932613632-9-38?utm_source=share&utm_medium=member_desktop
+
 
 Data Structure/ Data Modeling and Tools
 The 'gdb023' (atliq_hardware_db) database was provided to me to work on and it includes six main tables:
